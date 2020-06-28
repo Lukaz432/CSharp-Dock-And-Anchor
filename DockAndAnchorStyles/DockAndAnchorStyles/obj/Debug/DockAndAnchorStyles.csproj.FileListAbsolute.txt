@@ -1,0 +1,10 @@
+C:\Users\NASA\source\repos\DockAndAnchorStyles\DockAndAnchorStyles\bin\Debug\DockAndAnchorStyles.exe.config
+C:\Users\NASA\source\repos\DockAndAnchorStyles\DockAndAnchorStyles\bin\Debug\DockAndAnchorStyles.exe
+C:\Users\NASA\source\repos\DockAndAnchorStyles\DockAndAnchorStyles\bin\Debug\DockAndAnchorStyles.pdb
+C:\Users\NASA\source\repos\DockAndAnchorStyles\DockAndAnchorStyles\obj\Debug\DockAndAnchorStyles.csprojAssemblyReference.cache
+C:\Users\NASA\source\repos\DockAndAnchorStyles\DockAndAnchorStyles\obj\Debug\DockAndAnchorStyles.Form1.resources
+C:\Users\NASA\source\repos\DockAndAnchorStyles\DockAndAnchorStyles\obj\Debug\DockAndAnchorStyles.Properties.Resources.resources
+C:\Users\NASA\source\repos\DockAndAnchorStyles\DockAndAnchorStyles\obj\Debug\DockAndAnchorStyles.csproj.GenerateResource.cache
+C:\Users\NASA\source\repos\DockAndAnchorStyles\DockAndAnchorStyles\obj\Debug\DockAndAnchorStyles.csproj.CoreCompileInputs.cache
+C:\Users\NASA\source\repos\DockAndAnchorStyles\DockAndAnchorStyles\obj\Debug\DockAndAnchorStyles.exe
+C:\Users\NASA\source\repos\DockAndAnchorStyles\DockAndAnchorStyles\obj\Debug\DockAndAnchorStyles.pdb
